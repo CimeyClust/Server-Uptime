@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: cimeyclust # Your GitHub organization or username, where this repository lives
+repo: Server-Uptime # The name of this repository
 
 sites:
   - name: Website
@@ -13,15 +13,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.cimeyclust.com
   # baseUrl: /your-repo-name
-  logoUrl: https://images.app.goo.gl/peYhNbNzTbiBNgxD7
-  name: CimeyClust Uptime
+  logoUrl: https://cimeyclust.com/images/CimeyClust-Icon.png
+  name: CimeyClust
   introTitle: "**CimeyClust** Services Uptime charts."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: These uptime charts are intended to give customers the ability to check on the status of our services at any time, in order to find any errors on their site or ours more quickly. Thanks to Upptime to offer such a good and free software for displaying these informations.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: CimeyClust
+      href: https://cimeyclust.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
