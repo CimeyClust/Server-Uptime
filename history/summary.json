@@ -4,7 +4,7 @@
     "url": "https://cimeyclust.com",
     "icon": "https://icons.duckduckgo.com/ip3/cimeyclust.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 980,
     "timeDay": 729,
-    "timeWeek": 958,
+    "timeWeek": 928,
     "timeMonth": 919,
     "timeYear": 980,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 678,
     "timeDay": 469,
-    "timeWeek": 646,
+    "timeWeek": 624,
     "timeMonth": 716,
     "timeYear": 678,
     "dailyMinutesDown": {}
