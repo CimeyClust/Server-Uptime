@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 920,
+    "time": 921,
     "timeDay": 792,
     "timeWeek": 644,
     "timeMonth": 607,
-    "timeYear": 920,
+    "timeYear": 921,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "https://pterodactyl.cimeyclust.com",
     "icon": "https://icons.duckduckgo.com/ip3/pterodactyl.cimeyclust.com.ico",
     "slug": "panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
